@@ -63,4 +63,4 @@ Bu proje, 1. sınıf "Algoritmalar ve Programlama" dersi için **C# programlama 
 3.  Uygulamayı çalıştırın (F5 / Başlat) ve menüden istediğiniz modu (1, 2 veya 3) seçin.
 
 ---
-*Geliştirici: [Adınız ve Soyadınız]*
+*Geliştirici: Mehmet Arda Kalafat
