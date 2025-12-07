@@ -1,2 +1,2 @@
 # Chess_Game
-The console-based chess game I developed using C#
+C# ile geliştirdiğim konsol tabanlı satranç oyunu
